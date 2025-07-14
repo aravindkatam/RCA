@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Time	A		B		Cin	Sum		Cout
+0	0000	0000	0	0000	0
+10000	0001	0001	0	0010	0
+20000	1111	0001	0	0000	1
+30000	1010	0101	1	0000	1
+40000	1111	1111	1	1111	1
+$finish called at time : 50 ns : File "/home/avi/rca/rca.srcs/sources_1/new/rca.v" Line 105

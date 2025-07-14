@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/avi/rca/rca.srcs/sources_1/new/rca.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fa
+INFO: [VRFC 10-311] analyzing module rca
+INFO: [VRFC 10-311] analyzing module rca_tb
